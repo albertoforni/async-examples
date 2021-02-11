@@ -17,6 +17,7 @@ async function getPlanetAndResident(): Promise<void> {
   }
 }
 
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/any#
+// TODO
+// - show other Promise static methods https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/any#
 
 getPlanetAndResident();
