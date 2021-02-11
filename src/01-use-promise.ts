@@ -13,5 +13,6 @@ function getPlanets(): void {
 
 // TODO:
 // test failure
+// test unhandled rejection
 
 getPlanets();
